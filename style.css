@@ -1,3 +1,18 @@
 body {
-
+  background-color: yellow;
 }
+
+h1 {
+  color: black;
+  font szie: 200%;
+  border: dashed 3px black; 
+}
+li, tr {
+  background-color: purple;
+  text shadow: 2px 2px;
+}
+
+
+
+
+  
