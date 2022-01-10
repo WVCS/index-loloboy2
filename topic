@@ -1,0 +1,76 @@
+<html>
+  
+  <head>
+    
+    <link rel = "stylesheet" href = "style.css"/>
+    
+    
+    <div class = "navbar">
+    
+  
+    <a href = "topic.html"> Topic</a>
+    <a href = "index.html"> Home</a>
+    
+    
+    
+    
+  </div>
+
+
+
+    
+    
+  </head>
+  
+  <body>
+    
+ <center>    
+
+    <h1> Lorenzo Millers Website </h1> 
+    <img src= https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2020/04/GettyImages-1200357601.jpg>
+    </center>
+    
+  <p> This is my list: </p> 
+    <ul>
+      <li> Football </li>
+      <li> Chargers </li>
+      <li> LSU </li> 
+      <li> Netflix </li>
+      
+      <table>
+        <tr> 
+          <th> Number </th>
+          <th> Player </th> 
+          <th> Position </th>
+        </tr> 
+        
+        <tr>
+          <td> 2 </td>
+          <td> Justin Jefferson </td>
+          <td> Wide receiver </td>
+        </tr> 
+        <tr> 
+          <td> 1 </td>
+          <td> Jamarr Chase </td>
+          <td> Wide reciever </td>
+         </tr> 
+        <tr> 
+          <td> 3 </td>
+          <td> Odell Beckham Jr. </td>
+          <td> Wide reciever </td>
+        </tr>
+        <tr> 
+          <td> 7 </td>
+          <td> Tyrann mathieu </td>
+          <td> Safety </td>
+          </tr>
+        
+      </table>
+       <iframe
+               <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSx4whnrqdesH7oMlyANGl226ft1zIIYGz-ZsfJVN3fEyzxW5sjVD7hfsMnNo9XbrSLLHA0coWkIEKy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            
+    
+  </body>
+    
+    </html>
+        
