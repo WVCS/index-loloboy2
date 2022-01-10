@@ -1,0 +1,19 @@
+.navbar{
+ 
+  background-color: purple;
+  overflow: hidden;
+  display: block;
+  top: 10;
+ 
+}
+
+.navbar a{
+  
+  text-decoration: none;
+  color: yellow;
+  float: right;
+  padding: 10px 44px;
+  font-size: 20px;
+  
+}
+
